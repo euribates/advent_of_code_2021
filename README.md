@@ -19,4 +19,4 @@ My solutions for the [2021 Advent of code](https://adventofcode.com/2021).
 
 - [Day 11: Passage Pathing](./day12/day12.ipynb)
 
-![Maze laberitnth](./maze-map.jpg)
+![Maze laberitnth](./day12/maze-map.jpg)
