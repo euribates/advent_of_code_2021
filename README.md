@@ -2,7 +2,6 @@
 
 My solutions for the [2021 Advent of code](https://adventofcode.com/2021).
 
-
 - [Day 1: Sonar Sweep](./day01/day01.ipynb)
 - [Day 2: Dive!](./day02/day02.ipynb)
 - [Day 3: Binary Diagnostic](./day03/day03.ipynb)
@@ -17,6 +16,8 @@ My solutions for the [2021 Advent of code](https://adventofcode.com/2021).
 
 ![Dumbo Octopos](./day11/dumbo-octopus.jpg)
 
-- [Day 11: Passage Pathing](./day12/day12.ipynb)
+- [Day 12: Passage Pathing](./day12/day12.ipynb)
 
 ![Maze laberitnth](./day12/maze-map.jpg)
+
+- [Day 13: Transparent Origami](./day13/day13.ipynb)
