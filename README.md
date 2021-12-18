@@ -21,3 +21,4 @@ My solutions for the [2021 Advent of code](https://adventofcode.com/2021).
 ![Maze laberitnth](./day12/maze-map.jpg)
 
 - [Day 13: Transparent Origami](./day13/day13.ipynb)
+- [Day 14: Extended Polymerization](./day14/day14.ipynb)
