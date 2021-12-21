@@ -22,3 +22,8 @@ My solutions for the [2021 Advent of code](https://adventofcode.com/2021).
 
 - [Day 13: Transparent Origami](./day13/day13.ipynb)
 - [Day 14: Extended Polymerization](./day14/day14.ipynb)
+- [Day 15: Chiton](./day15/day15.ipynb)
+
+![Shortest Path](./day15/shortest-path.png)
+
+- [Day 16: Packet Decoder](./day16/day16.ipynb)
