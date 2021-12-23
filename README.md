@@ -27,3 +27,6 @@ My solutions for the [2021 Advent of code](https://adventofcode.com/2021).
 ![Shortest Path](./day15/shortest-path.png)
 
 - [Day 16: Packet Decoder](./day16/day16.ipynb)
+- [Day 17: Trick Shot](./day17/day17.ipynb)
+
+![Probe launch](./day17/day17/probe-6-3.png)
