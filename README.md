@@ -30,3 +30,7 @@ My solutions for the [2021 Advent of code](https://adventofcode.com/2021).
 - [Day 17: Trick Shot](./day17/day17.ipynb)
 
 ![Probe launch](./day17/probe-6-3.png)
+
+- [Day 18: Snailfish]
+
+![Tree sample](./day18/tree-sample.png)
