@@ -31,6 +31,6 @@ My solutions for the [2021 Advent of code](https://adventofcode.com/2021).
 
 ![Probe launch](./day17/probe-6-3.png)
 
-- [Day 18: Snailfish]
+- [Day 18: Snailfish](./day18/day18.ipynb)
 
 ![Tree sample](./day18/tree-sample.png)
