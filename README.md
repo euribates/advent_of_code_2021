@@ -34,3 +34,10 @@ My solutions for the [2021 Advent of code](https://adventofcode.com/2021).
 - [Day 18: Snailfish](./day18/day18.ipynb)
 
 ![Tree sample](./day18/tree-sample.png)
+
+- **Day 19: Beacon Scanner** (Still in progress)
+
+- [Day 20: Trench Map](./day20/day20.ipynb)
+- [Day 21: Dirac Dice](./day21/day21.ipynb)
+
+
