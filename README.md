@@ -40,4 +40,4 @@ My solutions for the [2021 Advent of code](https://adventofcode.com/2021).
 - [Day 20: Trench Map](./day20/day20.ipynb)
 - [Day 21: Dirac Dice](./day21/day21.ipynb)
 
-
+- **Day 22: Day 22: Reactor Reboot**
